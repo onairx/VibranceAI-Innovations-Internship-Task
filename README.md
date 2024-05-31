@@ -1,6 +1,6 @@
 # VibranceAI-Innovations-Internship-Task
 Tast 1: Design Portfolio Website
-Website link: https://vibrance-ai-porfolio-task.netlify.app/
+ Website link: https://vibrance-ai-porfolio-task.netlify.app/
 
 
 
